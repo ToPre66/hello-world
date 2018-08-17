@@ -209,5 +209,13 @@
     <price>8.20</price>
     <year>1987</year>
   </cd>
+  <cd>
+    <title>Born in the USA</title>
+    <artist>Bruce Springsteen</artist>
+    <country>USA</country>
+    <company>EMI</company>
+    <price>10.20</price>
+    <year>1986</year>
+  </cd>
 </catalog>
 

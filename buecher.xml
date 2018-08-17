@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type='text/xsl' href='buecher.xsl'?>
+<werke>
+	<buch>
+		<titel>Ich bin ein Berliner</titel>
+		<autor>John F. Kennedy</autor>
+		<seiten>133</seiten>
+		<preis>12.80</preis>
+	</buch>
+	<buch>
+		<titel>Ich auch</titel>
+		<autor>Hubert Meyer</autor>
+		<seiten>422</seiten>
+		<preis>69.90</preis>
+	</buch>
+	<buch>
+		<titel>Wo ist Berlin</titel>
+		<autor>Hans Dampf</autor>
+		<seiten>152</seiten>
+		<preis>29.90</preis>
+	</buch>
+	<buch>
+		<titel>Ich bin a Münchener</titel>
+		<autor>Hias Dimpfelmoser</autor>
+		<seiten>152</seiten>
+		<preis>225.80</preis>
+	</buch>
+</werke>
